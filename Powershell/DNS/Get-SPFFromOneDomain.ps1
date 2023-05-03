@@ -3,6 +3,7 @@
 <#
 .SYNOPSIS
 Get DNS entries for given Domain.
+uses https://dns.google/resolve
 
 .DESCRIPTION
 
