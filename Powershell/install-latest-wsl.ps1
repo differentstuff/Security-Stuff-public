@@ -1,6 +1,12 @@
 #Requires -RunAsAdministrator
 
 # This script helps installing WSL without using the Windows Store in different Variants.
+#
+# Sources: https://learn.microsoft.com/en-us/windows/wsl/install-manual
+# Sources: https://github.com/nandortoth/wsl2-distro-init
+# Sources: https://gist.github.com/sanyer/399dd0c3ff304a8e765ca489fa93daa4
+
+
 
 <# Variant 1
 
